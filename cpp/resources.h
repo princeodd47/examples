@@ -1,3 +1,5 @@
+//Example header file containing functions to be imported into another file.
+
 #include <iostream>
 using namespace std;
 
