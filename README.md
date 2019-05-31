@@ -1,1 +1,3 @@
-# Code Examples live here for various languages and projects.
+# Code Examples
+
+Examples of different languages, practices, and projects live here.
